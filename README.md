@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ag3silaus
-- 👀 I’m interested in SAP CAP
+- 👀 I’m interested in SAP Technologies
 - 🌱 I’m currently learning SAP Cloud Extention and Integration
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me burakyilmaz778@gmail.com
 
 <!---
